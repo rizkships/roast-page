@@ -56,6 +56,9 @@ nav {
     flex: 1; /* Take up remaining space between logo and button */
     display: flex;
     justify-content: center; /* Center the menu items */
+
+    border-style: solid;
+    border-radius: 5px;
 }
 
 button {
@@ -65,4 +68,12 @@ button {
     padding: 5px 15px;
     border-radius: 3px;
     margin-right: 2em;
+}
+
+
+
+
+
+.hero-container {
+    background-color: black;
 }
