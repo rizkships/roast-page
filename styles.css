@@ -58,7 +58,8 @@ nav {
     justify-content: center; /* Center the menu items */
 
     border-style: solid;
-    border-radius: 5px;
+    border-radius: 10px;
+    max-width: fit-content;
 }
 
 button {
