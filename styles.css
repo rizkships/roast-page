@@ -17,7 +17,7 @@ header {
 
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
     align-items: center;
 }
 
@@ -53,13 +53,13 @@ nav {
 
 
 .menu-nav {
-    flex: 1; /* Take up remaining space between logo and button */
+  /*   flex: 1; Take up remaining space between logo and button */
     display: flex;
     justify-content: center; /* Center the menu items */
 
     border-style: solid;
     border-radius: 10px;
-    max-width: fit-content;
+    
 }
 
 button {
