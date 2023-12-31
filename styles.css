@@ -3,11 +3,11 @@
 }
 
 .secondary-color {
-    color: #5C5E65;
+    color: #103900
 }
 
 .accent-color {
-    color: #f2e29f;
+    color: #C2F970
 }
 
 .highlight-color {
@@ -47,6 +47,7 @@ nav {
 .logo {
     margin: 0;
     margin-left: 2em;
+    margin-right: 27em;
 }
 
 
