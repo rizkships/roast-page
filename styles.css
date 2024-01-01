@@ -101,3 +101,9 @@ button {
     background-color: black;
     
 }
+
+
+/* Set pointer cursor on hover for the navigation links */
+.menu-nav a {
+    cursor: pointer;
+}
