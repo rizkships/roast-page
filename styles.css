@@ -107,3 +107,7 @@ button {
 .menu-nav a {
     cursor: pointer;
 }
+
+.hero-content {
+    color: white;
+}
