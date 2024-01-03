@@ -111,3 +111,7 @@ button {
 .hero-content {
     color: white;
 }
+
+.menu-nav a:hover {
+    color: #ff8906;
+}
