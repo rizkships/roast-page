@@ -110,6 +110,10 @@ button {
 
 .hero-content {
     color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
 }
 
 .menu-nav a:hover {
