@@ -99,6 +99,9 @@ button {
 
 .hero-container {
     background-color: black;
+
+    display: flex;
+    height: 100vh;
     
 }
 
@@ -114,7 +117,7 @@ button {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    
+
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
