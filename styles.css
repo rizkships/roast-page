@@ -126,3 +126,9 @@ button {
     color: #ff8906;
 }
 
+.card {
+    list-style: none;
+    border: #100E17;
+    width: 10px;
+    height: 10px;
+}
