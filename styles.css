@@ -132,3 +132,9 @@ button {
     width: 10px;
     height: 10px;
 }
+
+.sign-up-container {
+    margin-top: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
