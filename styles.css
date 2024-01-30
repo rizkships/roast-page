@@ -102,6 +102,7 @@ button {
     height: 100vh;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     
@@ -134,14 +135,14 @@ button {
     height: 10px;
 }
 
-/*
+
 .sign-up-container {
-    margin-top: auto;
+    
     text-align: center;
     margin-bottom: 20px;
 }
 
-*/
+
 
 
 .button-container {
