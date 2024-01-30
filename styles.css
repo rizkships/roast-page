@@ -28,6 +28,7 @@ body {
 .container {
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
 }
 
 header {
@@ -69,9 +70,8 @@ nav {
     
 }
 
-.button-container {
-    margin-left: auto; /* Pushes the button container to the right */
-}
+
+
 
 
 .menu-nav {
@@ -99,9 +99,15 @@ button {
 
 .hero-container {
     background-color: black;
+    height: 100vh;
 
     display: flex;
-    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+
+   
+    
     
 }
 
@@ -113,13 +119,8 @@ button {
 
 .hero-content {
     color: white;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
     text-align: center;
-
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
+    
 }
 
 .menu-nav a:hover {
@@ -133,8 +134,17 @@ button {
     height: 10px;
 }
 
+/*
 .sign-up-container {
     margin-top: auto;
     text-align: center;
     margin-bottom: 20px;
 }
+
+*/
+
+
+.button-container {
+    margin-left: auto; 
+}
+
