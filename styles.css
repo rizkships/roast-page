@@ -95,8 +95,8 @@ nav {
 }
 
 button {
-    background-color: #ff8906;
-    color: white;
+    background-color: var(--highlight-color);
+    color: var(--neutral-color);
     border: none;
     padding: 5px 15px;
     border-radius: 3px;
@@ -108,7 +108,7 @@ button {
 
 
 .hero-container {
-    background-color: black;
+    background-color: var(--primary-color);
     height: 100vh;
 
     display: flex;
@@ -129,18 +129,18 @@ button {
 }
 
 .hero-content {
-    color: white;
+    color: var(--neutral-color);
     text-align: center;
     
 }
 
 .menu-nav a:hover {
-    color: #ff8906;
+    color: var(--highlight-color);
 }
 
 .card {
     list-style: none;
-    border: #100E17;
+    border: var(--primary-color);
     width: 10px;
     height: 10px;
 }
